@@ -23,6 +23,7 @@ Perfect for practicing your console logging and terminal typing!
 # Visuals/Links
 <img src="./client/src/images/jate.png">
 https://github.com/SDKwapis/A-single-page-text-editor-application-that-runs-in-the-browser-and-meets-PWA-criteria-just-for-you
+https://peanut-butter-and-text-editor.onrender.com
 
 # Contributing
 This project was built using class materials and rewatching the class recordings. Certain syntax and definitions were reference from the module 19 mini project.
